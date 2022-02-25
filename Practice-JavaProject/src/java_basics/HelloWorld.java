@@ -20,7 +20,8 @@ int x=2;
 			System.out.println(e.getMessage());
 		}
 		
-		
+	// printing Hello world
+		System.out.println("Hellow world");
 		
 		
 	}

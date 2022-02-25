@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 public class ArrayCalculations {
 
+	
+	
+	// find Min & Max of an array
+	
 	public static int findMinimum(int[] arr) {
 
 		int min = 0;

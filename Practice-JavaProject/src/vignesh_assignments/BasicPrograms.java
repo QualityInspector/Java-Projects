@@ -159,9 +159,12 @@ public class BasicPrograms {
 
 	public static void main(String[] args) {
 
-//		fibonacciSeries();
+		
+		// creating conflict by adding fibonacci() 1st & checkPrime() 2nd
+		
+		fibonacciSeries();
 
-//		checkPrimeNoInRange();
+		checkPrimeNoInRange();
 
 //		verifyPalindromeString();
 

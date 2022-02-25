@@ -160,11 +160,10 @@ public class BasicPrograms {
 	public static void main(String[] args) {
 
 		
-		// creating conflict by adding fibonacci() 1st & checkPrime() 2nd
+		// creating conflict by adding checkPrime() 1st & fibonacci() 2nd
 		
-		fibonacciSeries();
-
 		checkPrimeNoInRange();
+		fibonacciSeries();
 
 //		verifyPalindromeString();
 

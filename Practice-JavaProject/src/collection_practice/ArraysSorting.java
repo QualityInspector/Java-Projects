@@ -5,6 +5,11 @@ import java.util.Collections;
 
 public class ArraysSorting {
 
+
+
+// made some changes for commiting code in GITHUB 
+
+
 	static void ArrayIntegerSorting() {
 		Integer[] marks = new Integer[] { 85, 74, 95, 94, 75 };
 //		for(String s:str)

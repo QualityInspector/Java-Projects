@@ -8,6 +8,8 @@ int x=2;
 	public static void main(String[] args) 
 	{
 	
+// comments added for commit through git commandas in cmd line 
+
 		
 		int a=20, b=2;
 		

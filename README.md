@@ -1,3 +1,3 @@
 # Java-Projects
 
-this line added & will be pulled from command prompt
+it's repository to store collection of java projects
